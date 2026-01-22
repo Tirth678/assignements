@@ -1,13 +1,13 @@
 ## Frontend Projects (HTML & CSS)
 
-- **Zerodha Landing Page** – Static UI clone built using pure HTML and CSS  
+**Zerodha Landing Page** – Static UI clone built using pure HTML and CSS  
   https://developement-ashy.vercel.app/
 
-- **ElevenLabs Login Page** – Normal authentication UI  
+**ElevenLabs Login Page** – Normal authentication UI  
   https://login-page-ten-pearl.vercel.app/
 
-- **ElevenLabs Sales Page** – Marketing-focused landing page layout  
+**ElevenLabs Sales Page** – Marketing-focused landing page layout  
   https://assignements-6o56.vercel.app/
 
-- **100xDevs Landing Page** *(In Progress)* – Ongoing UI development  
+**100xDevs Landing Page** *(In Progress)* – Ongoing UI development  
   https://assignements-imvi.vercel.app/
