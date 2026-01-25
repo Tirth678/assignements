@@ -16,3 +16,6 @@ const countVowels = (str) => {
     return totalVowels;
 
 }
+
+console.log(countVowels('I am a good boy'));
+console.log(countVowels('I am a bad boy'))

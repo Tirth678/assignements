@@ -9,3 +9,6 @@ const isPalindrome = (str) => {
     let lowerStr = str.toLowerCase();
     return lowerStr.split('').reverse().join('') === lowerStr;
 }
+
+console.log(isPalindrome('LOL'))
+console.log(isPalindrome('kirat'))
